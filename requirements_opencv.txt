@@ -1,0 +1,19 @@
+# Requirements pour Heart Rate Detector - Version OpenCV
+# Compatible Python 3.13.5 (sans MediaPipe)
+
+# Vision par ordinateur - Version compatible Python 3.13.5
+opencv-python
+
+# Calcul scientifique - Versions compatibles
+numpy
+scipy
+
+# Visualisation - Version compatible
+matplotlib
+
+# Notes d'installation :
+# 1. Installer avec : pip install -r requirements_opencv.txt
+# 2. OpenCV inclut déjà les cascades de Haar nécessaires
+# 3. Pas besoin de MediaPipe avec cette version
+# 4. Compatible avec Python 3.13.5
+# 5. Utilise les dernières versions compatibles automatiquement
