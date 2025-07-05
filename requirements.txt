@@ -1,0 +1,8 @@
+# Packages installés via conda
+opencv==4.10.0
+numpy==1.26.4
+scipy==1.16.0
+matplotlib==3.10.0
+
+# Packages installés via pip
+mediapipe==0.10.21
